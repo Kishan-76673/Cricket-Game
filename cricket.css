@@ -1,0 +1,25 @@
+  body {
+      background-color: darkgrey;
+      text-align: center;
+    }
+
+    .bg {
+      background-image: url("ground image.jpg");
+      height: 612px;
+      width: 1015px;
+      margin: 0px;
+      padding: 0px;
+      background-position: center;
+      background-size: cover;
+    }
+
+    body,
+    html {
+      height: 100%;
+      width: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    h3{
+      color: beige
+    }
